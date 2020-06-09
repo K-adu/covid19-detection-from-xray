@@ -1,1 +1,1 @@
-# Sign-languge-detection
+# Covid-detection-using-neuralnet
